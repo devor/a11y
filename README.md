@@ -1,4 +1,4 @@
-# a11y
+# Accessibility Resources, Tips, etc.
 
 ## Resources / Cheatsheets
 * [Cheatsheet by Bits of Code] (http://bitsofco.de/2015/the-accessibility-cheatsheet/)
