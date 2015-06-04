@@ -10,3 +10,6 @@
 
 ## CSS
 Developers should use ARIA states to indicate the state of UI widget elements and use CSS attribute selectors to alter the visual appearance based on the state changes (rather than using script to change a class name on the element).
+
+## HTML
+* [HTML5 Elements Test Page](http://www.html5accessibility.com/html5elements/)
