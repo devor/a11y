@@ -1,5 +1,9 @@
 # a11y
 
+## Resources / Cheatsheets
+* [Cheatsheet by Bits of Code] (http://bitsofco.de/2015/the-accessibility-cheatsheet/)
+* [Awesome Resource List by John Hartley] (https://github.com/johnbhartley/accessibility)
+
 ## Landmarks
 * [Role Diagram](http://www.html5accessibility.com/tests/roles-land.html)
 * [Paciello Group Using WAI ARIA Landmarks](http://www.paciellogroup.com/blog/2013/02/using-wai-aria-landmarks-2013/)
